@@ -27,6 +27,6 @@ Layihəni istifadə edərkən aşağıdakıları nəzərə alın:
 ## Texniki Tələblər
 
 - Python  
-- `selenium`, `beautifulsoup4`, `pandas`, `pyodbc`, `sqlalchemy`, `time`,`tqdm`,`re` və ya digər SQL Server bağlantı modulu  
+- `selenium`, `beautifulsoup4`, `pandas`, `pyodbc`, `sqlalchemy`, `time`,`tqdm`,`re`  modulları 
 - Microsoft SQL Server  
 - ChromeDriver
